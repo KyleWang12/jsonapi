@@ -1,5 +1,5 @@
 import unittest
-from jsonapi import ExtendedEncoder, ExtendedDecoder
+from src.jsonapi.jsonapi import *
 
 class TestJsonAPI(unittest.TestCase):
 
