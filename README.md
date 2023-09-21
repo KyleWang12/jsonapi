@@ -7,7 +7,7 @@ JSONAPI is a Python library that extends the functionalities of the built-in `js
 To install JSONAPI, use the following command:
 
 ```bash
-pip install jsonapi
+pip install dist/jsonapi-0.0.1.tar.gz
 ```
 
 ## Usage
